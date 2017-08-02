@@ -49,7 +49,8 @@ FILE=
 # NAME = Camilo        Juan
 
 CLASSES = \
-        HelloWorld.java
+        HelloWorld.java \
+        Main.java
 
 #
 # MAIN is a variable with the name of the file containing the main method
